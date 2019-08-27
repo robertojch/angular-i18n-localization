@@ -68,6 +68,9 @@
             },
             "es": {
               "browserTarget": "i18nDemo:build:es"
+            },
+            "fr": {
+              "browserTarget": "i18nDemo:build:fr"
             }
           }
         },
